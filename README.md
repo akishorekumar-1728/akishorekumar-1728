@@ -31,7 +31,7 @@
 
 📍 Location: Chennai, Tamil Nadu, India
 
-📫 Email: [your-email@gmail.com](akishorekumar1728@gmail.com)
+📫 Email: [akishorekumar1728@gmail.com](mailto:akishorekumar1728@gmail.com)
 
 ---
 
