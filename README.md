@@ -1,6 +1,6 @@
 # Hi 👋, I'm A Kishore Kumar
 
-### ☁️ Aspiring DevOps Engineer 
+### ☁️ Aspiring DevOps Engineer from India
 
 🎓 Final Year B.Tech Information Technology Student at Kumaraguru College of Technology
 
@@ -16,30 +16,34 @@
 
 ## 🌐 Connect with Me
 
+<p align="left">
 <a href="https://linkedin.com/in/a-kishore-kumar-ba310a291" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40"/>
 </a>
 
 <a href="https://github.com/akishorekumar-1728" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40"/>
 </a>
+</p>
 
 ---
 
 ## 🛠️ Languages and Tools
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" width="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" width="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" width="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" width="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="50" width="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" width="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="50"/>
+<img src="https://skillicons.dev/icons?i=azure,linux,git,github,docker,kubernetes,jenkins,terraform,python,cpp,mysql" />
 </p>
+
+---
+
+## 📜 Certifications
+
+* AWS Cloud Quest: Cloud Practitioner
+* DevOps Mastery
+* AWS Certified Solutions Architect (Training)
+* HTML and CSS in Depth
+* C++ Programming
+* Azure Fundamentals (Learning Path)
 
 ---
 
@@ -59,6 +63,12 @@
 
 ---
 
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akishorekumar-1728\&theme=tokyo-night)
+
+---
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akishorekumar-1728\&show_icons=true\&theme=tokyonight)
@@ -70,6 +80,16 @@
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akishorekumar-1728\&theme=tokyonight)
+
+---
+
+## 🎯 Current Focus
+
+* Learning Kubernetes & Terraform
+* Building CI/CD Pipelines
+* Exploring Azure Cloud Services
+* Practicing DevOps Projects
+* Contributing to Open Source
 
 ---
 
