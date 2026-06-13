@@ -20,10 +20,6 @@
 <a href="https://linkedin.com/in/a-kishore-kumar-ba310a291" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40"/>
 </a>
-
-<a href="https://github.com/akishorekumar-1728" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40"/>
-</a>
 </p>
 
 ---
