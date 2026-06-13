@@ -1,91 +1,67 @@
 # Hi 👋, I'm A Kishore Kumar
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Aspiring+DevOps+Engineer;Azure+Cloud+Learner;Docker+%7C+Jenkins+%7C+Linux;CI%2FCD+Automation+Enthusiast)](https://git.io/typing-svg)
+### Aspiring DevOps Engineer from India ☁️🚀
 
-![](https://komarev.com/ghpvc/?username=akishorekumar-1728\&label=Profile+Views)
+🎓 Final Year B.Tech Information Technology Student at Kumaraguru College of Technology
 
-## 🚀 About Me
+☁️ Passionate about Cloud Computing, DevOps, Automation, and Infrastructure Management.
 
-🎓 Final Year Engineering Student
+💻 Skilled in Azure Cloud, Linux, Git, GitHub, Jenkins, Docker, Kubernetes, Terraform, CI/CD, Python, C++, and SQL.
 
-☁️ Aspiring DevOps Engineer passionate about Cloud Computing, Automation, and Infrastructure Management.
+🌱 Currently enhancing my expertise in Cloud Infrastructure, Container Orchestration, Infrastructure as Code (IaC), and DevOps Best Practices.
 
-🌱 Currently Learning:
+🚀 Hands-on experience building cloud and automation projects using Azure, Docker, Jenkins, GitHub, and Kubernetes.
 
-* Azure Cloud
-* Docker
-* Kubernetes
-* Jenkins
-* CI/CD
-* Linux
-
-💻 Skills:
-
-* C++
-* Python
-* Linux
-* Git & GitHub
-* Azure
-* Docker
-* Jenkins
-
-📍 Location: Chennai, Tamil Nadu, India
-
-📫 Email: [akishorekumar1728@gmail.com](mailto:akishorekumar1728@gmail.com)
+🔗 Open to collaborating on DevOps, Cloud, Automation, and Open-Source projects.
 
 ---
 
-## 🎯 Career Objective
+## 🚀 Projects
 
-Aspiring DevOps Engineer seeking opportunities to contribute to cloud infrastructure, automation, containerization, and CI/CD implementation while continuously enhancing technical expertise.
+### Azure Cloud Dashboard
+
+* Developed a Flask-based web application to monitor and manage Azure Virtual Machines and Resource Groups.
+* Integrated Azure SDK for VM lifecycle operations such as Start, Stop, Restart, and Delete.
+* Built a responsive dashboard using HTML, CSS, JavaScript, and Azure APIs.
+
+### E-Commerce CI/CD Pipeline
+
+* Implemented CI/CD pipelines using Jenkins and GitHub.
+* Containerized applications using Docker.
+* Automated build, test, and deployment workflows.
 
 ---
 
-## 🌐 Connect With Me
-
-* LinkedIn: https://linkedin.com/in/a-kishore-kumar-ba310a291
-* GitHub: https://github.com/akishorekumar-1728
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
 ### Cloud & DevOps
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+Azure • Azure DevOps • Docker • Kubernetes • Jenkins • Terraform • Git • GitHub • CI/CD
 
 ### Operating Systems
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+Linux
+
+### Programming Languages
+
+Python • C++ • SQL
 
 ---
 
-## 📊 GitHub Stats
+## 📫 How to Reach Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akishorekumar-1728\&show_icons=true\&theme=tokyonight)
+📧 Email: [akishorekumar1728@gmail.com](mailto:akishorekumar1728@gmail.com)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akishorekumar-1728\&layout=compact\&theme=tokyonight)
+💼 LinkedIn: linkedin.com/in/a-kishore-kumar-ba310a291
 
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akishorekumar-1728\&theme=tokyonight)
+🐙 GitHub: github.com/akishorekumar-1728
 
 ---
 
-## ✨ Quote
+## ⚡ Fun Fact
 
-> "First, solve the problem. Then, write the code."
+I enjoy automating repetitive tasks and turning manual processes into efficient DevOps workflows. 🚀
 
-⭐ Thanks for visiting my profile!
+---
+
+### "Automate Everything, Learn Continuously, Deliver Faster."
