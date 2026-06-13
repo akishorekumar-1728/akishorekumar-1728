@@ -1,67 +1,80 @@
 # Hi 👋, I'm A Kishore Kumar
 
-### Aspiring DevOps Engineer from India ☁️🚀
+### ☁️ Aspiring DevOps Engineer 
 
 🎓 Final Year B.Tech Information Technology Student at Kumaraguru College of Technology
 
-☁️ Passionate about Cloud Computing, DevOps, Automation, and Infrastructure Management.
+💡 Passionate about Cloud Computing, DevOps, Automation, and Infrastructure Management.
 
-💻 Skilled in Azure Cloud, Linux, Git, GitHub, Jenkins, Docker, Kubernetes, Terraform, CI/CD, Python, C++, and SQL.
+🚀 Building hands-on projects using Azure Cloud, Docker, Kubernetes, Jenkins, GitHub, and CI/CD pipelines.
 
-🌱 Currently enhancing my expertise in Cloud Infrastructure, Container Orchestration, Infrastructure as Code (IaC), and DevOps Best Practices.
+🌱 Currently learning Infrastructure as Code (Terraform), Container Orchestration, and Cloud-Native Technologies.
 
-🚀 Hands-on experience building cloud and automation projects using Azure, Docker, Jenkins, GitHub, and Kubernetes.
-
-🔗 Open to collaborating on DevOps, Cloud, Automation, and Open-Source projects.
+📫 Reach me at: **[akishorekumar1728@gmail.com](mailto:akishorekumar1728@gmail.com)**
 
 ---
 
-## 🚀 Projects
+## 🌐 Connect with Me
+
+<a href="https://linkedin.com/in/a-kishore-kumar-ba310a291" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40"/>
+</a>
+
+<a href="https://github.com/akishorekumar-1728" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40"/>
+</a>
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" width="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" width="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" width="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" width="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="50" width="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" width="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="50"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 ### Azure Cloud Dashboard
 
-* Developed a Flask-based web application to monitor and manage Azure Virtual Machines and Resource Groups.
-* Integrated Azure SDK for VM lifecycle operations such as Start, Stop, Restart, and Delete.
-* Built a responsive dashboard using HTML, CSS, JavaScript, and Azure APIs.
+* Flask-based web application for Azure Virtual Machine management.
+* Integrated Azure SDK for Start, Stop, Restart, and Delete operations.
+* Interactive dashboard with real-time resource monitoring.
 
 ### E-Commerce CI/CD Pipeline
 
-* Implemented CI/CD pipelines using Jenkins and GitHub.
-* Containerized applications using Docker.
-* Automated build, test, and deployment workflows.
+* Automated build and deployment using Jenkins and GitHub.
+* Containerized application using Docker.
+* Implemented CI/CD workflow for faster and reliable deployments.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 📊 GitHub Stats
 
-### Cloud & DevOps
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akishorekumar-1728\&show_icons=true\&theme=tokyonight)
 
-Azure • Azure DevOps • Docker • Kubernetes • Jenkins • Terraform • Git • GitHub • CI/CD
-
-### Operating Systems
-
-Linux
-
-### Programming Languages
-
-Python • C++ • SQL
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akishorekumar-1728\&layout=compact\&theme=tokyonight)
 
 ---
 
-## 📫 How to Reach Me
+## 🔥 GitHub Streak
 
-📧 Email: [akishorekumar1728@gmail.com](mailto:akishorekumar1728@gmail.com)
-
-💼 LinkedIn: linkedin.com/in/a-kishore-kumar-ba310a291
-
-🐙 GitHub: github.com/akishorekumar-1728
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akishorekumar-1728\&theme=tokyonight)
 
 ---
 
 ## ⚡ Fun Fact
 
-I enjoy automating repetitive tasks and turning manual processes into efficient DevOps workflows. 🚀
+I enjoy automating repetitive tasks and transforming manual processes into efficient DevOps workflows.
 
----
-
-### "Automate Everything, Learn Continuously, Deliver Faster."
+### 🚀 "Automate Everything, Learn Continuously, Deliver Faster."
