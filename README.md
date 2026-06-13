@@ -43,7 +43,7 @@
 * AWS Certified Solutions Architect (Training)
 * HTML and CSS in Depth
 * C++ Programming
-* Azure Fundamentals (Learning Path)
+
 
 ---
 
