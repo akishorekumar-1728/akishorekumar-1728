@@ -24,10 +24,34 @@
 
 ---
 
-## 🛠️ Languages and Tools
+## ☁️ Cloud Technologies
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=azure,linux,git,github,docker,kubernetes,jenkins,terraform,python,cpp,mysql" />
+<img src="https://skillicons.dev/icons?i=azure" />
+</p>
+
+---
+
+## 🚀 DevOps Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,terraform" />
+</p>
+
+---
+
+## 💻 Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
+</p>
+
+---
+
+## 🐧 Operating Systems
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=linux" />
 </p>
 
 ---
@@ -39,7 +63,6 @@
 * AWS Certified Solutions Architect (Training)
 * HTML and CSS in Depth
 * C++ Programming
-
 
 ---
 
