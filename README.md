@@ -80,11 +80,6 @@
 * Containerized application using Docker.
 * Implemented CI/CD workflow for faster and reliable deployments.
 
----
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akishorekumar-1728\&theme=tokyo-night)
 
 ---
 
