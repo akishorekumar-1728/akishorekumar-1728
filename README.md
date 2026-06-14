@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm A Kishore Kumar</h1>
 
-<h3 align="center">☁️ Aspiring DevOps Engineer from India</h3>h
+<h3 align="center">☁️ Aspiring DevOps Engineer from India</h3>
 
 <table>
 <tr>
