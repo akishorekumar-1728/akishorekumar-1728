@@ -16,6 +16,8 @@
 
 📜 AWS Cloud Quest: Cloud Practitioner Certified
 
+📜 DevOps Mastery Specialization – Coursera Certified
+
 📫 How to reach me: **[akishorekumar1728@gmail.com](mailto:akishorekumar1728@gmail.com)**
 
 ⚡ Fun Fact: I enjoy automating repetitive tasks and transforming manual processes into efficient DevOps workflows.
