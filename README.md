@@ -28,9 +28,10 @@
 
 ### Languages and Tools:
 
-<img src="https://skillicons.dev" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,mysql,azure,aws,docker,github,kubernetes,terraform" />
 
 <br><br><br>
+
 
 ---
 
