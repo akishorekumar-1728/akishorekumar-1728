@@ -9,7 +9,7 @@
 </div>
 
 * 🎓 Final Year **B.Tech Information Technology Student @ Kumaraguru College of Technology (KCT)**, Coimbatore.
-* ☁️ Focused on **Cloud Computing, DevOps, and Site Reliability**, building automated, scalable, and resilient cloud-native systems.
+* ☁️ Focused on **Cloud Computing, DevOps**, building automated, scalable, and resilient cloud-native systems.
 * 🛠️ Hands-on with **AWS, Azure, Docker, Kubernetes, Terraform, Git, GitHub Actions, and CI/CD** pipelines.
 * 💻 Experienced in backend and systems development using **Python, C++, SQL, Linux, and FastAPI**.
 * 🚀 Passionate about **AIOps, infrastructure automation, real-time monitoring, and cloud cost optimization**.
