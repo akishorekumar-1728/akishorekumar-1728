@@ -3,19 +3,19 @@
 
 # Hi 👋, I'm A Kishore Kumar
 
-### ☁️ Aspiring Cloud & DevOps Engineer | Software Developer
+### ☁️ Aspiring **Cloud & DevOps Engineer** | **Software Developer**
 
 ---
 
 </div>
 
-* 🎓 Final-Year **B.Tech Information Technology Student @ Kumaraguru College of Technology (KCT)**, Coimbatore.
-* ☁️ Focused on **Cloud Computing, Cloud Infrastructure, and DevOps Engineering** using AWS and Microsoft Azure.
-* 🛠️ Working with **Linux, Git, GitHub, Docker, Kubernetes, Terraform, Jenkins, and GitHub Actions** for automation and CI/CD.
-* ⚙️ Interested in **Infrastructure as Code, Cloud Automation, Monitoring, Observability, and AIOps**.
-* 💻 Building software applications and REST APIs using **Python, C++, SQL, FastAPI, Flask, and Node.js**.
-* 🌐 Exploring **Full-Stack Development** with React.js, JavaScript, Express.js, and MongoDB.
-* 🚀 Passionate about designing **secure, scalable, and reliable cloud-native applications**.
+* 🎓 Final-Year **B.Tech Information Technology Student** @ **Kumaraguru College of Technology (KCT)**, Coimbatore.
+* ☁️ Focused on **Cloud Computing, Cloud Infrastructure, and DevOps Engineering** using **AWS** and **Microsoft Azure**.
+* 🛠️ Working with **Linux, Git, GitHub, Docker, Kubernetes, Terraform, Jenkins, and GitHub Actions** for **Automation and CI/CD**.
+* ⚙️ Interested in **Infrastructure as Code (IaC), Cloud Automation, Monitoring, Observability, and AIOps**.
+* 💻 Building **Software Applications and REST APIs** using **Python, C++, SQL, FastAPI, Flask, and Node.js**.
+* 🌐 Exploring **Full-Stack Development** with **React.js, JavaScript, Express.js, and MongoDB**.
+* 🚀 Passionate about designing **Secure, Scalable, and Reliable Cloud-Native Applications**.
 
 <br>
 
