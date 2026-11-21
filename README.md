@@ -31,7 +31,7 @@
 
 ### Languages and Tools:
 
-<img src="https://skillicons.dev/icons?i=cpp,python,mysql,javascript,html,css,react,nodejs,express,fastapi,flask,azure,aws,linux,git,github,docker,kubernetes,terraform,jenkins,prometheus,grafana" />
+<img src="https://skillicons.dev/icons?i=python,cpp,react,nodejs,azure,docker,kubernetes" />
 
 <br><br><br>
 
