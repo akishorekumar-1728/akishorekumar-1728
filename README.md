@@ -1,18 +1,21 @@
+```html
 <div align="center">
 
 # Hi 👋, I'm A Kishore Kumar
 
-### ☁️ Aspiring Cloud & DevOps Engineer | Software Developer
+### 💻 Aspiring Software Engineer | Full-Stack Development | Cloud & DevOps
 
 ---
 
 </div>
 
-* 🎓 Final Year **B.Tech Information Technology Student @ Kumaraguru College of Technology (KCT)**, Coimbatore.
-* ☁️ Focused on **Cloud Computing, DevOps**, building automated, scalable, and resilient cloud-native systems.
-* 🛠️ Hands-on with **AWS, Azure, Docker, Kubernetes, Terraform, Git, GitHub Actions, and CI/CD** pipelines.
-* 💻 Experienced in backend and systems development using **Python, C++, SQL, Linux, and FastAPI**.
-* 🚀 Passionate about **AIOps, infrastructure automation, real-time monitoring, and cloud cost optimization**.
+* 🎓 Final-Year **B.Tech Information Technology Student @ Kumaraguru College of Technology (KCT)**, Coimbatore.
+* 💻 Interested in **Software Development, Full-Stack Development, Backend Engineering, and Building Scalable Applications**.
+* ☁️ Exploring **Cloud Computing and Infrastructure** using **Microsoft Azure and AWS**.
+* 🛠️ Hands-on with **Git, GitHub, Linux, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, and CI/CD**.
+* ⚙️ Building backend applications and REST APIs using **Python, C++, SQL, Node.js, Express.js, FastAPI, and Flask**.
+* 🌐 Working with **React.js, JavaScript, HTML, CSS, and MongoDB** for full-stack development.
+* 🚀 Interested in **Cloud Automation, Infrastructure as Code, Monitoring, AIOps, and AI-powered Applications**.
 
 <br>
 
@@ -28,11 +31,11 @@
 
 ### Languages and Tools:
 
-<img src="https://skillicons.dev/icons?i=cpp,python,mysql,azure,aws,docker,github,kubernetes,terraform" />
+<img src="https://skillicons.dev/icons?i=cpp,python,mysql,javascript,html,css,react,nodejs,express,fastapi,flask,azure,aws,linux,git,github,docker,kubernetes,terraform,jenkins,prometheus,grafana" />
 
 <br><br><br>
-
 
 ---
 
 ⭐ **Thanks for visiting my profile!**
+```
