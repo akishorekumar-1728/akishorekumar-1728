@@ -3,19 +3,19 @@
 
 # Hi 👋, I'm A Kishore Kumar
 
-### 💻 Aspiring Software Engineer | Full-Stack Development | Cloud & DevOps
+### ☁️ Aspiring Cloud & DevOps Engineer | Software Developer
 
 ---
 
 </div>
 
 * 🎓 Final-Year **B.Tech Information Technology Student @ Kumaraguru College of Technology (KCT)**, Coimbatore.
-* 💻 Interested in **Software Development, Full-Stack Development, Backend Engineering, and Scalable Applications**.
-* ☁️ Exploring **Cloud Computing and Cloud Infrastructure** using **Microsoft Azure and AWS**.
-* 🛠️ Hands-on with **Git, GitHub, Linux, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, and CI/CD** pipelines.
-* ⚙️ Building backend applications and REST APIs using **Python, C++, SQL, Node.js, Express.js, FastAPI, and Flask**.
-* 🌐 Working with **React.js, JavaScript, HTML, CSS, and MongoDB** for Full-Stack Development.
-* 🚀 Interested in **Cloud Automation, Infrastructure as Code, Monitoring, AIOps, and AI-powered Applications**.
+* ☁️ Focused on **Cloud Computing, Cloud Infrastructure, and DevOps Engineering** using AWS and Microsoft Azure.
+* 🛠️ Working with **Linux, Git, GitHub, Docker, Kubernetes, Terraform, Jenkins, and GitHub Actions** for automation and CI/CD.
+* ⚙️ Interested in **Infrastructure as Code, Cloud Automation, Monitoring, Observability, and AIOps**.
+* 💻 Building software applications and REST APIs using **Python, C++, SQL, FastAPI, Flask, and Node.js**.
+* 🌐 Exploring **Full-Stack Development** with React.js, JavaScript, Express.js, and MongoDB.
+* 🚀 Passionate about designing **secure, scalable, and reliable cloud-native applications**.
 
 <br>
 
