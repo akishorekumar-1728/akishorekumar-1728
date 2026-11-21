@@ -31,7 +31,7 @@
 
 ### Languages and Tools:
 
-<img src="https://skillicons.dev/icons?i=python,cpp,react,nodejs,azure,docker,kubernetes" />
+<img src="https://skillicons.dev/icons?i=python,cpp,react,nodejs,azure,aws,docker,kubernetes,terraform" />
 
 <br><br><br>
 
