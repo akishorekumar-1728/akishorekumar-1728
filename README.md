@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
 
 # Hi 👋, I'm A Kishore Kumar
@@ -10,11 +10,11 @@
 </div>
 
 * 🎓 Final-Year **B.Tech Information Technology Student @ Kumaraguru College of Technology (KCT)**, Coimbatore.
-* 💻 Interested in **Software Development, Full-Stack Development, Backend Engineering, and Building Scalable Applications**.
-* ☁️ Exploring **Cloud Computing and Infrastructure** using **Microsoft Azure and AWS**.
-* 🛠️ Hands-on with **Git, GitHub, Linux, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, and CI/CD**.
+* 💻 Interested in **Software Development, Full-Stack Development, Backend Engineering, and Scalable Applications**.
+* ☁️ Exploring **Cloud Computing and Cloud Infrastructure** using **Microsoft Azure and AWS**.
+* 🛠️ Hands-on with **Git, GitHub, Linux, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, and CI/CD** pipelines.
 * ⚙️ Building backend applications and REST APIs using **Python, C++, SQL, Node.js, Express.js, FastAPI, and Flask**.
-* 🌐 Working with **React.js, JavaScript, HTML, CSS, and MongoDB** for full-stack development.
+* 🌐 Working with **React.js, JavaScript, HTML, CSS, and MongoDB** for Full-Stack Development.
 * 🚀 Interested in **Cloud Automation, Infrastructure as Code, Monitoring, AIOps, and AI-powered Applications**.
 
 <br>
@@ -38,4 +38,3 @@
 ---
 
 ⭐ **Thanks for visiting my profile!**
-```
