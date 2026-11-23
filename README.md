@@ -9,14 +9,12 @@
 
 </div>
 
-* 🎓 Final-Year **B.Tech Information Technology Student** @ **Kumaraguru College of Technology (KCT)**, Coimbatore.
-* ☁️ Focused on **Cloud Computing, Cloud Infrastructure, and DevOps Engineering** using **AWS** and **Microsoft Azure**.
-* 🛠️ Working with **Linux, Git, GitHub, Docker, Kubernetes, Terraform, Jenkins, and GitHub Actions** for **Automation and CI/CD**.
-* ⚙️ Interested in **Infrastructure as Code (IaC), Cloud Automation, Monitoring, Observability, and AIOps**.
-* 💻 Building **Software Applications and REST APIs** using **Python, C++, SQL, FastAPI, Flask, and Node.js**.
-* 🌐 Exploring **Full-Stack Development** with **React.js, JavaScript, Express.js, and MongoDB**.
-* 🚀 Passionate about designing **Secure, Scalable, and Reliable Cloud-Native Applications**.
-
+- 🎓 Final-Year **B.Tech Information Technology Student** at **Kumaraguru College of Technology (KCT)**, Coimbatore.
+- ☁️ Focused on **Cloud Computing and Infrastructure** with **AWS** and **Microsoft Azure**.
+- ⚙️ Skilled in **DevOps and Automation** using **Linux, Git, Docker, Kubernetes, Terraform, Jenkins, and CI/CD**.
+- 💻 Experienced in **Programming** with **Python, C++, JavaScript, and SQL**.
+- 🌐 Building **Full-Stack Applications** using **React.js, Node.js, Express.js, FastAPI, Flask, and MongoDB**.
+- 📊 Working with **Monitoring and Observability** tools such as **Prometheus, Grafana, and Azure Monitor**.
 <br>
 
 - 📫 Reach me at [**akishorekumar1728@gmail.com**](mailto:akishorekumar1728@gmail.com)
