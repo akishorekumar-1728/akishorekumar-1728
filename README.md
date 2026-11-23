@@ -19,19 +19,19 @@
 
 📫 **Reach me at:** [akishorekumar1728@gmail.com](mailto:akishorekumar1728@gmail.com)
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="325" alt="Coding"/>
 
 ### Connect with me
 
 <a href="https://www.linkedin.com/in/a-kishore-kumar-ba310a291" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="45" height="45" alt="LinkedIn"/>
 </a>
 
 ### Languages and Tools
 
 <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,azure,aws,docker,kubernetes,terraform,prometheus,grafana" />
 
-<br><br>
+<br><br><br>
 
 ---
 
