@@ -45,4 +45,9 @@
 
 <br>
 
+## 💬 Quote
+
+> "Great things are done by a series of small things brought together."  
+
+
 ⭐ **Thanks for visiting my profile!**
