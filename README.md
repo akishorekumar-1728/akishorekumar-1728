@@ -40,6 +40,7 @@
 # 🏆 Certifications
 
 - 🏅 [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/8d488509-857c-4fa7-b83d-71e9e8df9e7c) – AWS Training & Certification
+- 🏅 [AWS Academy Graduate – Cloud Foundations](https://www.credly.com/badges/6095bf8a-b78a-41f3-87a7-d9f50294abb2/print) – AWS Academy
 - 🏅 [DevOps Mastery Specialization](https://coursera.org/share/002667f8f09e18eb81f4ba903a145d1d) – Coursera
 - 🏅 [C++ Programming](https://www.udemy.com/certificate/UC-26982082-6fa6-424a-923f-95b9367626cf/) – Udemy
 
