@@ -29,7 +29,7 @@
 
 ### Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,html,css,mongodb,mysql,azure,aws,linux,git,github,docker,kubernetes,terraform,jenkins" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,azure,aws,docker,kubernetes,terraform,prometheus,grafana" />
 
 <br><br>
 
